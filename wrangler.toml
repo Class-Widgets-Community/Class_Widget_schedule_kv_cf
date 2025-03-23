@@ -1,0 +1,6 @@
+name = "my-worker"
+type = "javascript"
+
+kv_namespaces = [
+  { binding = "MY_KV", id = "your-kv-namespace-id" }
+]
