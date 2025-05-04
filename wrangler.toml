@@ -1,2 +1,5 @@
 # wrangler.toml
 name = 'classwidget-schedule-kv-cf'
+
+[observability.logs]
+enabled = true
